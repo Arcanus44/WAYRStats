@@ -1,0 +1,136 @@
+**What is WAYRStats?**
+
+
+
+I'm so glad you asked in such an incredibly convenient and properly formatted manner! WAYRStats is a data science script written in Python that passes a search query to the Reddit API and processes the results. In plain English, my script passes a string to Reddit to run as a search on /r/visualnovels; this search string isolates and returns nothing but the WAYR threads. Using this fucking mountain of data I get as a result I can go through ALL that information, parse it in various ways, and set up basically whatever leaderboards/metrics/analytics I (or you!) could want.
+
+
+
+___
+
+
+
+Let's do the important part first: the contest!  If you posted three separate times this month in any of the WAYR threads, your name made it to this list, and thus you are eligible for the contest.
+
+
+
+[RNG Bias Solved] did the honors this time, and our winner for this month is [Contest Winner]!  Congratulations!  For your choice of prizes you will have access to:
+
+
+
+* A custom text flair on old.reddit
+
+* A custom character flair on old.reddit
+
+* Your choice of the sidebar recommendation (new and old)
+
+
+
+Over time we're hoping this list of prizes can expand, especially to include VNs themselves; for now, while this whole thing is just starting out, it'll be a smaller list.
+
+
+
+Qualifiers for Feb WAYR:
+
+    /u/morphogenic96
+    /u/deathjohnson1
+    /u/Jaggedmallard26
+    /u/Alexfang452
+    /u/Panyaaa
+    /u/TheGorefiend
+    /u/ejennsyahmixcel
+    /u/alwayslonesome
+    /u/fallenguru
+    /u/donuteater111
+___
+
+#User Lists
+
+**The Perfect Attendees:** *Posted in every thread this month.*
+
+    /u/Panyaaa
+    /u/donuteater111
+    /u/morphogenic96
+    /u/ejennsyahmixcel
+    /u/Alexfang452
+    /u/alwayslonesome
+    /u/fallenguru
+    /u/TheGorefiend
+    /u/Jaggedmallard26
+    /u/deathjohnson1
+
+**User Average Data:** *[user] - [char count / # posts = average]*
+
+    [ejennsyahmixcel].........[28815/3 = 9605]    [fallenguru]..............[27602/3 = 9200]
+    [deathjohnson1]...........[26832/3 = 8944]    [alwayslonesome]..........[26075/3 = 8691]
+    [Alexfang452].............[15716/3 = 5238]    [donuteater111]...........[13734/3 = 4578]
+    [morphogenic96]...........[10664/3 = 3554]    [vnfan]...................[10028/2 = 5014]
+    [Panyaaa]..................[9168/3 = 3056]    [ArchydaCookie]............[8150/2 = 4075]
+    [PHNX_Arcanus].............[6861/1 = 6861]    [Jaggedmallard26]..........[5478/3 = 1826]
+    [brpr425]..................[5073/2 = 2536]    [Ughplz]...................[4661/1 = 4661]
+    [TheGorefiend].............[4212/3 = 1404]    [August_Hail]..............[4056/2 = 2028]
+    [UnknownNinja].............[3756/1 = 3756]    [Cursedo]..................[3093/2 = 1546]
+    [ruben_0]..................[2852/1 = 2852]    [ItsNooa]..................[2377/1 = 2377]
+    [ablasina_SHIRO]...........[2267/2 = 1133]    [ContinuousChoice21].......[2051/1 = 2051]
+    [SamuraiFruitPunch8].......[1915/1 = 1915]    [shellshock321]............[1728/1 = 1728]
+    [OminousTang]..............[1683/1 = 1683]    [caspar57]..................[1586/2 = 793]
+    [NiandraL]..................[1474/2 = 737]    [JohnAlesi]................[1290/1 = 1290]
+    [Drimfddw].................[1118/1 = 1118]    [reddit767].................[1041/2 = 520]
+    [PyroCyan]...................[994/1 = 994]    [EmbertheTwelfth]............[906/1 = 906]
+    [Borizwithaz]................[653/2 = 326]    [shinymuuma].................[599/1 = 599]
+    [KitBar].....................[583/1 = 583]    [harpco].....................[564/1 = 564]
+    [tostitosruler]..............[457/1 = 457]    [Spazzery]...................[371/1 = 371]
+    [shirvani28].................[205/1 = 205]    [abibyama]...................[200/1 = 200]
+    [Worluvus]...................[194/1 = 194]    [Tenauri]....................[180/1 = 180]
+    [JemZ13].....................[138/1 = 138]    [Scalanderx].................[124/1 = 124]
+    [dunno8694]..................[102/1 = 102]    [novht]........................[38/1 = 38]
+    [tintintinintin]...............[36/1 = 36]
+___
+
+#Single Line Statistics
+
+* The Pretty People Coefficient: Percentage of users who have set custom character flairs: [44%]
+* A total of [81] unique users commented on the threads this month.
+* We had an average of [25] WAYR posts per thread this month.
+* We had an average of [59] total comments per thread this month.
+* The average length of WAYR posts for this month is [3138] characters.
+* The average length of any comment for this month is [1675] characters.
+* There was a total average of [98845] characters per thread this month.
+* There was a total average of [80566] characters for WAYR posts per thread this month.
+
+Here are the totals this month across all threads:
+
+* [296535] characters typed
+* [241700] total WAYR post characters
+* [177] total comments
+* [77] total WAYR posts
+
+And the individual thread breakdowns:
+
+* [Thread] - [total char] | [comments] | [wayr char] | [wayr posts]
+* [Feb 24] - [130343] | [54] | [70075] | [24]
+* [Feb 17] - [160720] | [57] | [84720] | [28]
+* [Feb 10] - [214890] | [66] | [98340] | [25]
+
+___
+
+#Monthly Leaderboards
+
+**Monthly: Avg Character Count**
+
+    #1: /u/ejennsyahmixcel..........[9605]
+    #2: /u/fallenguru...............[9200]
+    #3: /u/deathjohnson1............[8944]
+    #4: /u/alwayslonesome...........[8691]
+    #5: /u/Alexfang452..............[5238]
+    #6: /u/vnfan....................[5014]
+    #7: /u/donuteater111............[4578]
+    #8: /u/ArchydaCookie............[4075]
+    #9: /u/morphogenic96............[3554]
+    #10: /u/Panyaaa.................[3056]
+    #11: /u/brpr425.................[2536]
+    #12: /u/August_Hail.............[2028]
+    #13: /u/Jaggedmallard26.........[1826]
+    #14: /u/Cursedo.................[1546]
+    #15: /u/TheGorefiend............[1404]
+

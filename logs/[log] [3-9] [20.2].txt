@@ -1,0 +1,521 @@
+**What is WAYRStats?**
+
+
+
+I'm so glad you asked in such an incredibly convenient and properly formatted manner! WAYRStats is a data science script written in Python that passes a search query to the Reddit API and processes the results. In plain English, my script passes a string to Reddit to run as a search on /r/visualnovels; this search string isolates and returns nothing but the WAYR threads. Using this fucking mountain of data I get as a result I can go through ALL that information, parse it in various ways, and set up basically whatever leaderboards/metrics/analytics I (or you!) could want.
+
+
+
+___
+
+
+
+Let's do the important part first: the contest!  If you posted three separate times this month in any of the WAYR threads, your name made it to this list, and thus you are eligible for the contest.
+
+
+
+[RNG Bias Solved] did the honors this time, and our winner for this month is [Contest Winner]!  Congratulations!  For your choice of prizes you will have access to:
+
+
+
+* A custom text flair on old.reddit
+
+* A custom character flair on old.reddit
+
+* Your choice of the sidebar recommendation (new and old)
+
+
+
+Over time we're hoping this list of prizes can expand, especially to include VNs themselves; for now, while this whole thing is just starting out, it'll be a smaller list.
+
+
+
+Qualifiers for Feb WAYR:
+
+    /u/morphogenic96
+    /u/deathjohnson1
+    /u/Alexfang452
+    /u/Jaggedmallard26
+    /u/Panyaaa
+    /u/fallenguru
+    /u/alwayslonesome
+    /u/TheGorefiend
+    /u/ejennsyahmixcel
+    /u/donuteater111
+___
+
+#User Lists
+
+**The Perfect Attendees: posted in every thread this month.**
+
+    /u/Panyaaa
+    /u/donuteater111
+    /u/morphogenic96
+    /u/ejennsyahmixcel
+    /u/Alexfang452
+    /u/alwayslonesome
+    /u/fallenguru
+    /u/TheGorefiend
+    /u/Jaggedmallard26
+    /u/deathjohnson1
+**User Average Data:**
+
+*[user] - [char count / # posts = average]*
+
+    [ejennsyahmixcel].........[28815/3 = 9605]    [fallenguru]..............[27602/3 = 9200]
+    [deathjohnson1]...........[26832/3 = 8944]    [alwayslonesome]..........[26075/3 = 8691]
+    [Alexfang452].............[15716/3 = 5238]    [donuteater111]...........[13734/3 = 4578]
+    [morphogenic96]...........[10664/3 = 3554]    [vnfan]...................[10028/2 = 5014]
+    [Panyaaa]..................[9168/3 = 3056]    [ArchydaCookie]............[8150/2 = 4075]
+    [PHNX_Arcanus].............[6861/1 = 6861]    [Jaggedmallard26]..........[5478/3 = 1826]
+    [brpr425]..................[5073/2 = 2536]    [Ughplz]...................[4661/1 = 4661]
+    [TheGorefiend].............[4212/3 = 1404]    [August_Hail]..............[4056/2 = 2028]
+    [UnknownNinja].............[3756/1 = 3756]    [Cursedo]..................[3093/2 = 1546]
+    [ruben_0]..................[2852/1 = 2852]    [ItsNooa]..................[2377/1 = 2377]
+    [ablasina_SHIRO]...........[2267/2 = 1133]    [ContinuousChoice21].......[2051/1 = 2051]
+    [SamuraiFruitPunch8].......[1915/1 = 1915]    [shellshock321]............[1728/1 = 1728]
+    [OminousTang]..............[1683/1 = 1683]    [caspar57]..................[1586/2 = 793]
+    [NiandraL]..................[1474/2 = 737]    [JohnAlesi]................[1290/1 = 1290]
+    [Drimfddw].................[1118/1 = 1118]    [reddit767].................[1041/2 = 520]
+    [PyroCyan]...................[994/1 = 994]    [EmbertheTwelfth]............[906/1 = 906]
+    [Borizwithaz]................[653/2 = 326]    [shinymuuma].................[599/1 = 599]
+    [KitBar].....................[583/1 = 583]    [harpco].....................[564/1 = 564]
+    [tostitosruler]..............[457/1 = 457]    [Spazzery]...................[371/1 = 371]
+    [shirvani28].................[205/1 = 205]    [abibyama]...................[200/1 = 200]
+    [Worluvus]...................[194/1 = 194]    [Tenauri]....................[180/1 = 180]
+    [JemZ13].....................[138/1 = 138]    [Scalanderx].................[124/1 = 124]
+    [dunno8694]..................[102/1 = 102]    [novht]........................[38/1 = 38]
+    [tintintinintin]...............[36/1 = 36]
+
+
+___
+
+#Single Line Statistics
+
+* The Pretty People Coefficient: Percentage of users who have set custom character flairs: [44%]
+* A total of [81] unique users commented on the threads this month.
+* We had an average of [25] WAYR posts per thread this month.
+* We had an average of [59] total comments per thread this month.
+* The average length of WAYR posts for this month is [3138] characters.
+* The average length of any comment for this month is [1675] characters.
+* There was a total average of [98845] characters per thread this month.
+* There was a total average of [80566] characters for WAYR posts per thread this month.
+
+Here are the totals this month across all threads:
+
+* [296535] characters typed
+* [241700] total WAYR post characters
+* [177] total comments
+* [77] total WAYR posts
+
+And the individual thread breakdowns:
+
+* [Thread] - [total char] | [comments] | [wayr char] | [wayr posts]
+* [Feb 24] - [130343] | [54] | [70075] | [24]
+* [Feb 17] - [160720] | [57] | [84720] | [28]
+* [Feb 10] - [214890] | [66] | [98340] | [25]
+___
+
+#Monthly Leaderboards
+
+**Monthly: Avg Character Count**
+
+    #1: /u/ejennsyahmixcel..........[9605]
+    #2: /u/fallenguru...............[9200]
+    #3: /u/deathjohnson1............[8944]
+    #4: /u/alwayslonesome...........[8691]
+    #5: /u/Alexfang452..............[5238]
+    #6: /u/vnfan....................[5014]
+    #7: /u/donuteater111............[4578]
+    #8: /u/ArchydaCookie............[4075]
+    #9: /u/morphogenic96............[3554]
+    #10: /u/Panyaaa.................[3056]
+    #11: /u/brpr425.................[2536]
+    #12: /u/August_Hail.............[2028]
+    #13: /u/Jaggedmallard26.........[1826]
+    #14: /u/Cursedo.................[1546]
+    #15: /u/TheGorefiend............[1404]
+
+**Monthly: Big Kids Club**
+
+*This leaderboard tracks the largest posts for the month/year.*
+
+    #1: /u/ejennsyahmixcel..........[15404]...[Feb 10]
+    #2: /u/Alexfang452..............[10499]...[Feb 24]
+    #3: /u/alwayslonesome...........[10000]...[Feb 10]
+    #4: /u/fallenguru...............[9901]....[Feb 24]
+    #5: /u/alwayslonesome...........[9253]....[Feb 24]
+    #6: /u/deathjohnson1............[9242]....[Feb 10]
+    #7: /u/deathjohnson1............[9155]....[Feb 24]
+    #8: /u/fallenguru...............[8903]....[Feb 17]
+    #9: /u/fallenguru...............[8798]....[Feb 10]
+    #10: /u/deathjohnson1...........[8435]....[Feb 17]
+    #11: /u/ejennsyahmixcel.........[7641]....[Feb 24]
+    #12: /u/vnfan...................[7516]....[Feb 17]
+    #13: /u/PHNX_Arcanus............[6861]....[Feb 10]
+    #14: /u/alwayslonesome..........[6822]....[Feb 17]
+    #15: /u/ArchydaCookie...........[6457]....[Feb 17]
+
+**Monthly: Party Goers Club**
+
+*This leaderboard tracks the number of days your posts have existed in the threads, and your number of posts.*
+
+    #1: /u/morphogenic96............[21 - 3]
+    #1: /u/deathjohnson1............[21 - 3]
+    #1: /u/Alexfang452..............[21 - 3]
+    #1: /u/Jaggedmallard26..........[21 - 3]
+    #1: /u/alwayslonesome...........[21 - 3]
+    #1: /u/TheGorefiend.............[21 - 3]
+    #1: /u/ejennsyahmixcel..........[21 - 3]
+    #8: /u/donuteater111............[20 - 3]
+    #9: /u/Panyaaa..................[19 - 3]
+    #10: /u/fallenguru..............[18 - 3]
+    #11: /u/Cursedo.................[14 - 2]
+    #11: /u/caspar57................[14 - 2]
+    #11: /u/Borizwithaz.............[14 - 2]
+    #11: /u/August_Hail.............[14 - 2]
+    #11: /u/vnfan...................[14 - 2]
+
+**Monthly: Sweet Talker's Club**
+
+*This leaderboard tracks total comment replies for the month/year.*
+
+    #1: /u/alwayslonesome...........[13]
+    #2: /u/tintintinintin...........[8]
+    #3: /u/Panyaaa..................[6]
+    #3: /u/superange128.............[6]
+    #5: /u/morphogenic96............[5]
+    #5: /u/AutoModerator............[5]
+    #5: /u/fallenguru...............[5]
+    #8: /u/August_Hail..............[4]
+    #8: /u/donuteater111............[4]
+    #10: /u/deathjohnson1...........[3]
+    #10: /u/_Garudyne...............[3]
+    #10: /u/tauros113...............[3]
+    #10: /u/SamuraiFruitPunch8......[3]
+    #14: /u/Alexfang452.............[2]
+    #14: /u/Jaggedmallard26.........[2]
+
+**Monthly: Travelers Club**
+
+*This leaderboard tracks comment replies __excluding__ replies attached to your own WAYR post.*
+
+    #1: /u/tintintinintin...........[8]
+    #2: /u/superange128.............[6]
+    #3: /u/alwayslonesome...........[4]
+    #3: /u/morphogenic96............[4]
+    #3: /u/August_Hail..............[4]
+    #3: /u/AutoModerator............[4]
+    #7: /u/fallenguru...............[3]
+    #7: /u/_Garudyne................[3]
+    #7: /u/tauros113................[3]
+    #7: /u/donuteater111............[3]
+    #11: /u/Panyaaa.................[2]
+    #11: /u/Jaggedmallard26.........[2]
+    #11: /u/whiteweather1994........[2]
+    #11: /u/SamuraiFruitPunch8......[2]
+    #15: /u/sohaiboi................[1]
+
+___
+
+**Leaderboard: Post Streak**
+
+    #1: /u/deathjohnson1............[6] posts between Feb 24 and Feb 24.
+    #1: /u/Alexfang452..............[6] posts between Feb 24 and Feb 24.
+    #1: /u/Jaggedmallard26..........[6] posts between Feb 24 and Feb 24.
+    #1: /u/fallenguru...............[6] posts between Feb 24 and Feb 24.
+    #1: /u/alwayslonesome...........[6] posts between Feb 24 and Feb 24.
+    #1: /u/TheGorefiend.............[6] posts between Feb 24 and Feb 24.
+    #1: /u/donuteater111............[6] posts between Feb 24 and Feb 24.
+    #8: /u/Panyaaa..................[5] posts between Jan 13 and Feb 24.
+    #8: /u/ejennsyahmixcel..........[5] posts between Jan 13 and Feb 24.
+    #8: /u/brpr425..................[5] posts between Feb 17 and Feb 17.
+    #11: /u/morphogenic96...........[3] posts between Feb 10 and Feb 24.
+    #11: /u/Borizwithaz.............[3] posts between Jan 13 and Feb 10.
+    #11: /u/August_Hail.............[3] posts between Jan 20 and Feb 17.
+    #11: /u/OminousTang.............[3] posts between Feb 17 and Feb 17.
+    #15: /u/Cursedo.................[2] posts between Feb 17 and Feb 24.
+    #15: /u/caspar57................[2] posts between Feb 17 and Feb 24.
+    #15: /u/NiandraL................[2] posts between Feb 17 and Feb 24.
+    #15: /u/reddit767...............[2] posts between Feb 17 and Feb 24.
+    #15: /u/ArchydaCookie...........[2] posts between Feb 10 and Feb 17.
+    #15: /u/vnfan...................[2] posts between Feb 10 and Feb 17.
+    #15: /u/ablasina_SHIRO..........[2] posts between Feb 10 and Feb 17.
+    #15: /u/ruben_0.................[2] posts between Jan 20 and Feb 10.
+    #15: /u/novht...................[2] posts between Jan 20 and Feb 10.
+    #15: /u/superange128............[2] posts between Jan 13 and Jan 20.
+    #15: /u/StraxRarus..............[2] posts between Jan 13 and Jan 13.
+    #15: /u/m0lnarr.................[2] posts between Jan 13 and Jan 13.
+
+**Leaderboard: Big Kids Club**
+
+    #1: /u/fallenguru...............[16937]...[Jan 13]
+    #2: /u/ejennsyahmixcel..........[15404]...[Feb 10]
+    #3: /u/donuteater111............[12894]...[Jan 6]
+    #4: /u/deathjohnson1............[12197]...[Jan 20]
+    #5: /u/Intuentis................[12133]...[Jan 6]
+    #6: /u/OminousTang..............[10766]...[Jan 20]
+    #7: /u/Alexfang452..............[10499]...[Feb 24]
+    #8: /u/tintintinintin...........[10264]...[Jan 6]
+    #9: /u/alwayslonesome...........[10000]...[Feb 10]
+    #10: /u/alwayslonesome..........[10000]...[Jan 13]
+    #11: /u/alwayslonesome..........[10000]...[Jan 6]
+    #12: /u/alwayslonesome..........[9998]....[Jan 20]
+    #13: /u/fallenguru..............[9901]....[Feb 24]
+    #14: /u/fallenguru..............[9843]....[Jan 20]
+    #15: /u/donuteater111...........[9501]....[Jan 13]
+    #16: /u/alwayslonesome..........[9253]....[Feb 24]
+    #17: /u/deathjohnson1...........[9242]....[Feb 10]
+    #18: /u/deathjohnson1...........[9155]....[Feb 24]
+    #19: /u/fallenguru..............[8903]....[Feb 17]
+    #20: /u/fallenguru..............[8798]....[Feb 10]
+    #21: /u/deathjohnson1...........[8435]....[Feb 17]
+    #22: /u/OminousTang.............[7792]....[Jan 13]
+    #23: /u/ejennsyahmixcel.........[7641]....[Feb 24]
+    #24: /u/vnfan...................[7516]....[Feb 17]
+    #25: /u/fallenguru..............[7465]....[Jan 6]
+    #26: /u/ejennsyahmixcel.........[7142]....[Jan 13]
+    #27: /u/PHNX_Arcanus............[6861]....[Feb 10]
+    #28: /u/alwayslonesome..........[6822]....[Feb 17]
+    #29: /u/OminousTang.............[6508]....[Jan 13]
+    #30: /u/ArchydaCookie...........[6457]....[Feb 17]
+
+**Leaderboard: Avg Character Count**
+
+    #1: /u/alwayslonesome...........[9345]
+    #2: /u/fallenguru...............[8887]
+    #3: /u/deathjohnson1............[8117]
+    #4: /u/ejennsyahmixcel..........[7548]
+    #5: /u/donuteater111............[5095]
+    #6: /u/tintintinintin...........[4918]
+    #7: /u/OminousTang..............[4512]
+    #8: /u/ArchydaCookie............[3506]
+    #9: /u/Alexfang452..............[3458]
+    #10: /u/Jaggedmallard26.........[3297]
+    #11: /u/Panyaaa.................[3181]
+    #12: /u/brpr425.................[2232]
+    #13: /u/TheGorefiend............[1120]
+    #14: /u/caspar57................[969]
+    #15: /u/Borizwithaz.............[496]
+
+**Leaderboard: User Level**
+
+*This leaderboard tracks your total character count for the year and uses an algorithm to derive a level from it.*
+
+    #1: /u/fallenguru...............[Level 32] (71102)
+    #2: /u/deathjohnson1............[Level 29] (56823)
+    #3: /u/alwayslonesome...........[Level 28] (56073)
+    #4: /u/ejennsyahmixcel..........[Level 25] (45289)
+    #4: /u/OminousTang..............[Level 25] (45121)
+    #6: /u/donuteater111............[Level 21] (35669)
+    #7: /u/Alexfang452..............[Level 16] (24206)
+    #8: /u/Jaggedmallard26..........[Level 14] (19784)
+    #8: /u/tintintinintin...........[Level 14] (19675)
+    #10: /u/Panyaaa.................[Level 12] (15908)
+    #11: /u/PHNX_Arcanus............[Level 11] (15349)
+    #11: /u/Intuentis...............[Level 11] (14034)
+    #11: /u/ArchydaCookie...........[Level 11] (14025)
+    #14: /u/brpr425.................[Level 9] (11163)
+    #14: /u/vnfan...................[Level 9] (11120)
+    #16: /u/morphogenic96...........[Level 8] (10664)
+    #17: /u/TheGorefiend............[Level 6] (6722)
+    #18: /u/August_Hail.............[Level 5] (6422)
+    #19: /u/m0lnarr.................[Level 4] (5007)
+    #19: /u/ruben_0.................[Level 4] (4916)
+    #19: /u/Ughplz..................[Level 4] (4661)
+    #19: /u/KingDragon64............[Level 4] (4635)
+    #19: /u/Some_Guy_87.............[Level 4] (4532)
+    #24: /u/prrg....................[Level 3] (4131)
+    #24: /u/superange128............[Level 3] (4047)
+    #24: /u/caspar57................[Level 3] (3876)
+    #24: /u/UnknownNinja............[Level 3] (3756)
+    #24: /u/StraxRarus..............[Level 3] (3544)
+    #24: /u/DarkBlueDovah...........[Level 3] (3488)
+    #24: /u/Omen111.................[Level 3] (3476)
+
+**Leaderboard: Party Goers**
+
+    #1: /u/OminousTang..............[44 - 9]
+    #2: /u/deathjohnson1............[42 - 6]
+    #2: /u/Alexfang452..............[42 - 6]
+    #2: /u/alwayslonesome...........[42 - 6]
+    #2: /u/TheGorefiend.............[42 - 6]
+    #6: /u/donuteater111............[39 - 6]
+    #7: /u/Jaggedmallard26..........[38 - 6]
+    #8: /u/ejennsyahmixcel..........[35 - 5]
+    #9: /u/Panyaaa..................[33 - 5]
+    #10: /u/caspar57................[28 - 4]
+    #10: /u/Borizwithaz.............[28 - 4]
+    #12: /u/ArchydaCookie...........[26 - 4]
+    #13: /u/fallenguru..............[25 - 6]
+    #14: /u/morphogenic96...........[21 - 3]
+    #14: /u/August_Hail.............[21 - 3]
+    #14: /u/vnfan...................[21 - 3]
+    #17: /u/tintintinintin..........[15 - 3]
+    #18: /u/Cursedo.................[14 - 2]
+    #18: /u/Spazzery................[14 - 2]
+    #18: /u/ablasina_SHIRO..........[14 - 2]
+    #18: /u/PHNX_Arcanus............[14 - 2]
+    #18: /u/superange128............[14 - 2]
+    #18: /u/m0lnarr.................[14 - 2]
+    #24: /u/NiandraL................[12 - 2]
+    #24: /u/novht...................[12 - 2]
+    #26: /u/brpr425.................[10 - 5]
+    #26: /u/ruben_0.................[10 - 2]
+    #28: /u/StraxRarus..............[8 - 2]
+    #29: /u/PyroCyan................[7 - 1]
+    #29: /u/harpco..................[7 - 1]
+
+**Leaderboard: Sweet Talker's Club**
+
+    #1: /u/alwayslonesome...........[18]
+    #2: /u/tintintinintin...........[15]
+    #3: /u/AutoModerator............[13]
+    #3: /u/Jaggedmallard26..........[13]
+    #5: /u/superange128.............[12]
+    #6: /u/Panyaaa..................[9]
+    #7: /u/fallenguru...............[8]
+    #7: /u/ArchydaCookie............[8]
+    #9: /u/morphogenic96............[7]
+    #9: /u/donuteater111............[7]
+    #11: /u/OminousTang.............[6]
+    #11: /u/Some_Guy_87.............[6]
+    #13: /u/tauros113...............[5]
+    #13: /u/DarkBlueDovah...........[5]
+    #15: /u/August_Hail.............[4]
+    #15: /u/deathjohnson1...........[4]
+    #15: /u/_Garudyne...............[4]
+    #15: /u/whiteweather1994........[4]
+    #15: /u/StraxRarus..............[4]
+    #15: /u/SamuraiFruitPunch8......[4]
+    #15: /u/caspar57................[4]
+    #22: /u/PHNX_Arcanus............[3]
+    #22: /u/prrg....................[3]
+    #22: /u/Omen111.................[3]
+    #22: /u/Intuentis...............[3]
+    #26: /u/Alexfang452.............[2]
+    #26: /u/ejennsyahmixcel.........[2]
+    #26: /u/brpr425.................[2]
+    #26: /u/doreifan................[2]
+    #26: /u/Stefan474...............[2]
+
+**Leaderboard: Blabber Mouth Club**
+
+*This leaderboard tracks the number of posts you've made exceeding 1,500 characters.*
+
+    #1: /u/OminousTang..............[8]
+    #2: /u/deathjohnson1............[6]
+    #2: /u/fallenguru...............[6]
+    #2: /u/alwayslonesome...........[6]
+    #2: /u/donuteater111............[6]
+    #6: /u/Alexfang452..............[5]
+    #6: /u/Jaggedmallard26..........[5]
+    #6: /u/Panyaaa..................[5]
+    #6: /u/ejennsyahmixcel..........[5]
+    #10: /u/brpr425.................[4]
+    #11: /u/morphogenic96...........[3]
+    #11: /u/August_Hail.............[3]
+    #11: /u/ArchydaCookie...........[3]
+    #14: /u/vnfan...................[2]
+    #14: /u/ruben_0.................[2]
+    #14: /u/PHNX_Arcanus............[2]
+    #14: /u/tintintinintin..........[2]
+    #14: /u/m0lnarr.................[2]
+    #19: /u/Cursedo.................[1]
+    #19: /u/TheGorefiend............[1]
+    #19: /u/ItsNooa.................[1]
+    #19: /u/UnknownNinja............[1]
+    #19: /u/shellshock321...........[1]
+    #19: /u/ContinuousChoice21......[1]
+    #19: /u/Ughplz..................[1]
+    #19: /u/SamuraiFruitPunch8......[1]
+    #19: /u/_Garudyne...............[1]
+    #19: /u/prrg....................[1]
+    #19: /u/Some_Guy_87.............[1]
+    #19: /u/superange128............[1]
+
+**Leaderboard: Book Worms Club**
+
+*This leaderboard simply tracks your total post number for the year.*
+
+    #1: /u/OminousTang..............[9]
+    #2: /u/deathjohnson1............[6]
+    #2: /u/Alexfang452..............[6]
+    #2: /u/Jaggedmallard26..........[6]
+    #2: /u/fallenguru...............[6]
+    #2: /u/alwayslonesome...........[6]
+    #2: /u/TheGorefiend.............[6]
+    #2: /u/donuteater111............[6]
+    #9: /u/Panyaaa..................[5]
+    #9: /u/ejennsyahmixcel..........[5]
+    #9: /u/brpr425..................[5]
+    #12: /u/caspar57................[4]
+    #12: /u/Borizwithaz.............[4]
+    #12: /u/ArchydaCookie...........[4]
+    #15: /u/morphogenic96...........[3]
+    #15: /u/tintintinintin..........[3]
+    #15: /u/August_Hail.............[3]
+    #15: /u/vnfan...................[3]
+    #19: /u/Cursedo.................[2]
+    #19: /u/NiandraL................[2]
+    #19: /u/reddit767...............[2]
+    #19: /u/Spazzery................[2]
+    #19: /u/ablasina_SHIRO..........[2]
+    #19: /u/ruben_0.................[2]
+    #19: /u/PHNX_Arcanus............[2]
+    #19: /u/novht...................[2]
+    #19: /u/superange128............[2]
+    #19: /u/StraxRarus..............[2]
+    #19: /u/m0lnarr.................[2]
+    #30: /u/PyroCyan................[1]
+
+**Leaderboard: Travelers Club**
+
+    #1: /u/tintintinintin...........[13]
+    #2: /u/AutoModerator............[12]
+    #2: /u/Jaggedmallard26..........[12]
+    #4: /u/superange128.............[11]
+    #5: /u/alwayslonesome...........[8]
+    #6: /u/morphogenic96............[6]
+    #6: /u/Some_Guy_87..............[6]
+    #8: /u/tauros113................[5]
+    #8: /u/donuteater111............[5]
+    #10: /u/August_Hail.............[4]
+    #10: /u/fallenguru..............[4]
+    #10: /u/_Garudyne...............[4]
+    #10: /u/whiteweather1994........[4]
+    #14: /u/SamuraiFruitPunch8......[3]
+    #14: /u/ArchydaCookie...........[3]
+    #14: /u/prrg....................[3]
+    #14: /u/DarkBlueDovah...........[3]
+    #18: /u/Panyaaa.................[2]
+    #18: /u/doreifan................[2]
+    #18: /u/Omen111.................[2]
+    #18: /u/Stefan474...............[2]
+    #22: /u/sohaiboi................[1]
+    #22: /u/shinymuuma..............[1]
+    #22: /u/deathjohnson1...........[1]
+    #22: /u/fuwafuwaerika...........[1]
+    #22: /u/stealthswor.............[1]
+    #22: /u/sorathecrow_............[1]
+    #22: /u/shellshock321...........[1]
+    #22: /u/StraxRarus..............[1]
+    #22: /u/brpr425.................[1]
+
+___
+
+
+
+#Conclusions
+
+
+
+[Conclusion text]
+
+
+
+So, [here's](https://discord.gg/wrEJmkW) a link to the discord server, pop on by if you're interested in the project!
+
+
+
+Remember to upvote automod-chan, and as always: What are you Reading?

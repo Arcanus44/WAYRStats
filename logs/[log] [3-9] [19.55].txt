@@ -1,0 +1,49 @@
+**What is WAYRStats?**
+
+
+
+I’m so glad you asked in such an incredibly convenient and properly formatted manner! WAYRStats is a data science script written in Python that passes a search query to the Reddit API and processes the results. In plain English, my script passes a string to Reddit to run as a search on /r/visualnovels; this search string isolates and returns nothing but the WAYR threads. Using this fucking mountain of data I get as a result I can go through ALL that information, parse it in various ways, and set up basically whatever leaderboards/metrics/analytics I (or you!) could want.
+
+
+
+___
+
+
+
+Let’s do the important part first: the contest!  If you posted three separate times this month in any of the WAYR threads, your name made it to this list, and thus you are eligible for the contest.
+
+
+
+[RNG Bias Solved] did the honors this time, and our winner for this month is [Contest Winner]!  Congratulations!  For your choice of prizes you will have access to:
+
+
+
+* A custom text flair on old.reddit
+
+* A custom character flair on old.reddit
+
+* Your choice of the sidebar recommendation (new and old)
+
+
+
+Over time we’re hoping this list of prizes can expand, especially to include VNs themselves; for now, while this whole thing is just starting out, it’ll be a smaller list.
+
+
+
+|
+
+
+
+#Conclusions
+
+
+
+[Conclusion text]
+
+
+
+So, [here’s](https://discord.gg/wrEJmkW) a link to the discord server, pop on by if you’re interested in the project!
+
+
+
+Remember to upvote automod-chan, and as always: What are you Reading?

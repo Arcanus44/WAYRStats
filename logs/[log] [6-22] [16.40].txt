@@ -1,0 +1,224 @@
+
+Leaderboard stats: Longest Consecutive Post Streak
+#1: /u/deathjohnson1..........[25] posts between Jan 1 and Jun 17.
+#2: /u/Alexfang452............[20] posts between Feb 5 and Jun 17.
+#3: /u/PHNX_Arcanus...........[12] posts between Apr 1 and Jun 17.
+#4: /u/Lastshade01............[8] posts between Feb 26 and Apr 15.
+#5: /u/donuteater111..........[8] posts between Apr 29 and Jun 17.
+#6: /u/boran_blok.............[6] posts between Feb 5 and Mar 11.
+#7: /u/caspar57...............[5] posts between May 20 and Jun 17.
+#8: /u/eiruki.................[5] posts between May 20 and Jun 17.
+#9: /u/Tanzka.................[4] posts between May 6 and May 27.
+#10: /u/fallenguru............[4] posts between May 27 and Jun 17.
+#11: /u/Pizzaphotoseyes.......[3] posts between Jan 1 and Jan 15.
+#12: /u/_JohnTitor__..........[3] posts between Jan 8 and Jan 22.
+#13: /u/ghostFOUR7............[3] posts between May 6 and May 20.
+#14: /u/yolo1234123...........[3] posts between May 27 and Jun 10.
+#15: /u/fuzzlekins............[3] posts between May 27 and Jun 10.
+#16: /u/August_Hail...........[3] posts between Jun 3 and Jun 17.
+#17: /u/Bantarific............[3] posts between Jun 3 and Jun 17.
+#18: /u/superange128..........[3] posts between Jun 3 and Jun 17.
+#19: /u/UnknownNinja..........[3] posts between Jun 3 and Jun 17.
+#20: /u/_Garudyne.............[3] posts between Jun 3 and Jun 17.
+#21: /u/ittybittyface.........[2] posts between Jan 1 and Jan 8.
+#22: /u/TheDanGG..............[2] posts between Jan 8 and Jan 15.
+#23: /u/UserPuser.............[2] posts between Mar 11 and Mar 18.
+#24: /u/nwl123................[2] posts between Apr 8 and Apr 15.
+#25: /u/OdaNova...............[2] posts between Apr 15 and Apr 22.
+#26: /u/JayOutslee............[2] posts between Apr 15 and Apr 22.
+#27: /u/drinkyourmilk94.......[2] posts between Apr 29 and May 6.
+#28: /u/sddsddcp..............[2] posts between May 6 and May 13.
+#29: /u/Urspy.................[2] posts between May 13 and May 20.
+#30: /u/palerat...............[2] posts between May 13 and May 20.
+
+Leaderboard Stats: The Big Kids Club
+#1: /u/PHNX_Arcanus...........[31578]...[Jun 17]
+#2: /u/TeaWithCarina..........[17174]...[Jun 10]
+#3: /u/PHNX_Arcanus...........[16741]...[May 13]
+#4: /u/GorbyVodka.............[16503]...[Apr 22]
+#5: /u/greenhillmario.........[15255]...[Mar 4]
+#6: /u/SignificantMaybe.......[14705]...[Jun 17]
+#7: /u/SignificantMaybe.......[14414]...[May 6]
+#8: /u/VeteranNomad...........[14190]...[Mar 4]
+#9: /u/fallenguru.............[13729]...[Jun 10]
+#10: /u/nanogenesis...........[12637]...[Jun 3]
+#11: /u/fallenguru............[12498]...[May 27]
+#12: /u/PHNX_Arcanus..........[11501]...[Mar 11]
+#13: /u/PHNX_Arcanus..........[11418]...[Jun 10]
+#14: /u/M_Knight_Jul..........[10800]...[May 20]
+#15: /u/greenhillmario........[10437]...[Mar 11]
+#16: /u/superange128..........[10266]...[Jan 8]
+#17: /u/alwayslonesome........[9999]....[May 13]
+#18: /u/PHNX_Arcanus..........[9994]....[Jun 3]
+#19: /u/PHNX_Arcanus..........[9972]....[May 27]
+#20: /u/Some_Guy_87...........[9964]....[Apr 22]
+#21: /u/PHNX_Arcanus..........[9947]....[May 20]
+#22: /u/alwayslonesome........[9933]....[Jun 17]
+#23: /u/fallenguru............[9895]....[Jun 3]
+#24: /u/GitahMuttan...........[9892]....[Apr 27]
+#25: /u/Zelphios..............[9834]....[Jun 3]
+#26: /u/deathjohnson1.........[9694]....[Jun 17]
+#27: /u/fallenguru............[9666]....[Jun 17]
+#28: /u/fallenguru............[9596]....[May 13]
+#29: /u/deathjohnson1.........[9575]....[Jan 29]
+#30: /u/alwayslonesome........[9558]....[Jan 15]
+
+Leaderboard Stats: Highest Average Character Count
+#1: /u/PHNX_Arcanus...........[7594]
+#2: /u/TeaWithCarina..........[7286]
+#3: /u/alwayslonesome.........[6839]
+#4: /u/SignificantMaybe.......[6401]
+#5: /u/KaveAhangar............[6312]
+#6: /u/Some_Guy_87............[5650]
+#7: /u/fallenguru.............[5558]
+#8: /u/deathjohnson1..........[4966]
+#9: /u/_Garudyne..............[4572]
+#10: /u/sddsddcp..............[4329]
+#11: /u/greenhillmario........[4245]
+#12: /u/fuzzlekins............[4243]
+#13: /u/tintintinintin........[3793]
+#14: /u/Final_Smile...........[3592]
+#15: /u/UnknownNinja..........[3567]
+#16: /u/nanogenesis...........[3375]
+#17: /u/RisingChaos...........[3373]
+#18: /u/eiruki................[3307]
+#19: /u/walrus_paradise.......[2208]
+#20: /u/superange128..........[2169]
+#21: /u/Worluvus..............[2157]
+#22: /u/donuteater111.........[2065]
+#23: /u/Alexfang452...........[1919]
+#24: /u/Tanzka................[1899]
+#25: /u/Kiesuu................[1890]
+#26: /u/Bantarific............[1566]
+#27: /u/boran_blok............[1404]
+#28: /u/palerat...............[1176]
+#29: /u/August_Hail...........[1036]
+#30: /u/morphogenic96.........[1013]
+
+Leaderboard Stats: User Level
+#1: /u/PHNX_Arcanus...........Level [49] (167081)
+#2: /u/deathjohnson1..........Level [48] (163892)
+#3: /u/fallenguru.............Level [40] (105609)
+#4: /u/alwayslonesome.........Level [40] (109432)
+#5: /u/UnknownNinja...........Level [32] (67788)
+#6: /u/greenhillmario.........Level [29] (59439)
+#7: /u/SignificantMaybe.......Level [27] (51215)
+#8: /u/Alexfang452............Level [23] (40314)
+#9: /u/eiruki.................Level [23] (39685)
+#10: /u/KaveAhangar...........Level [22] (37874)
+#11: /u/nanogenesis...........Level [22] (37129)
+#12: /u/tintintinintin........Level [21] (34145)
+#13: /u/Some_Guy_87...........Level [21] (33904)
+#14: /u/donuteater111.........Level [20] (33054)
+#15: /u/TeaWithCarina.........Level [19] (29147)
+#16: /u/superange128..........Level [19] (30369)
+#17: /u/fuzzlekins............Level [15] (21219)
+#18: /u/Kiesuu................Level [15] (20792)
+#19: /u/GorbyVodka............Level [14] (18895)
+#20: /u/VeteranNomad..........Level [13] (18794)
+#21: /u/sddsddcp..............Level [13] (17317)
+#22: /u/_Garudyne.............Level [13] (18288)
+#23: /u/SailorKapibara........Level [12] (15885)
+#24: /u/walrus_paradise.......Level [12] (15461)
+#25: /u/Final_Smile...........Level [11] (14369)
+#26: /u/MidgetPanda3031.......Level [11] (14692)
+#27: /u/Pizzaphotoseyes.......Level [10] (12517)
+#28: /u/GitahMuttan...........Level [10] (12837)
+#29: /u/Zelphios..............Level [10] (13622)
+#30: /u/RisingChaos...........Level [10] (13493)
+
+Leaderboard Stats: Early Bird Club
+#1: /u/deathjohnson1..........[33] Early Birds
+#2: /u/Alexfang452............[19] Early Birds
+#3: /u/UnknownNinja...........[19] Early Birds
+#4: /u/alwayslonesome.........[15] Early Birds
+#5: /u/PHNX_Arcanus...........[15] Early Birds
+#6: /u/caspar57...............[13] Early Birds
+#7: /u/superange128...........[13] Early Birds
+#8: /u/donuteater111..........[13] Early Birds
+#9: /u/Kiesuu.................[9] Early Birds
+#10: /u/eiruki................[9] Early Birds
+#11: /u/morphogenic96.........[9] Early Birds
+#12: /u/boran_blok............[7] Early Birds
+#13: /u/nanogenesis...........[7] Early Birds
+#14: /u/Lastshade01...........[6] Early Birds
+#15: /u/KaveAhangar...........[6] Early Birds
+#16: /u/greenhillmario........[6] Early Birds
+#17: /u/GeneralGom............[5] Early Birds
+#18: /u/Tanzka................[5] Early Birds
+#19: /u/Worluvus..............[5] Early Birds
+#20: /u/tintintinintin........[5] Early Birds
+#21: /u/Some_Guy_87...........[5] Early Birds
+#22: /u/walrus_paradise.......[5] Early Birds
+#23: /u/SignificantMaybe......[5] Early Birds
+#24: /u/sddsddcp..............[4] Early Birds
+#25: /u/August_Hail...........[4] Early Birds
+#26: /u/RisingChaos...........[4] Early Birds
+#27: /u/fuzzlekins............[4] Early Birds
+#28: /u/Pizzaphotoseyes.......[3] Early Birds
+#29: /u/tauros113.............[3] Early Birds
+#30: /u/nwl123................[3] Early Birds
+
+Leaderboard Stats: Sweet Talker's Club
+#1: /u/AutoModerator..........[118]
+#2: /u/PHNX_Arcanus...........[111]
+#3: /u/tintintinintin.........[60]
+#4: /u/superange128...........[40]
+#5: /u/Some_Guy_87............[35]
+#6: /u/deathjohnson1..........[22]
+#7: /u/alwayslonesome.........[21]
+#8: /u/UnknownNinja...........[20]
+#9: /u/tauros113..............[19]
+#10: /u/cameron997456.........[17]
+#11: /u/caspar57..............[17]
+#12: /u/SignificantMaybe......[17]
+#13: /u/SailorKapibara........[13]
+#14: /u/_Garudyne.............[13]
+#15: /u/Veshurik..............[12]
+#16: /u/lostn.................[11]
+#17: /u/nanogenesis...........[11]
+#18: /u/greenhillmario........[11]
+#19: /u/DrJamesFox............[11]
+#20: /u/RisingChaos...........[10]
+#21: /u/Bruxae................[9]
+#22: /u/8cccc9................[9]
+#23: /u/eiruki................[9]
+#24: /u/fallenguru............[9]
+#25: /u/TheBlackPrism824......[8]
+#26: /u/M_Knight_Jul..........[8]
+#27: /u/Zelphios..............[8]
+#28: /u/Kiesuu................[8]
+#29: /u/donuteater111.........[8]
+#30: /u/VeteranNomad..........[7]
+
+Leaderboard Stats: Blabber Mouth Club
+#1: /u/deathjohnson1..........[29]
+#2: /u/UnknownNinja...........[17]
+#3: /u/alwayslonesome.........[15]
+#4: /u/fallenguru.............[14]
+#5: /u/PHNX_Arcanus...........[14]
+#6: /u/donuteater111..........[10]
+#7: /u/tintintinintin.........[9]
+#8: /u/eiruki.................[9]
+#9: /u/Alexfang452............[8]
+#10: /u/nanogenesis...........[8]
+#11: /u/greenhillmario........[8]
+#12: /u/KaveAhangar...........[6]
+#13: /u/Kiesuu................[6]
+#14: /u/Some_Guy_87...........[5]
+#15: /u/fuzzlekins............[5]
+#16: /u/walrus_paradise.......[5]
+#17: /u/SignificantMaybe......[5]
+#18: /u/Final_Smile...........[4]
+#19: /u/sddsddcp..............[4]
+#20: /u/Worluvus..............[4]
+#21: /u/RisingChaos...........[4]
+#22: /u/_Garudyne.............[4]
+#23: /u/Pizzaphotoseyes.......[3]
+#24: /u/faiiper...............[3]
+#25: /u/nwl123................[3]
+#26: /u/superange128..........[3]
+#27: /u/MidgetPanda3031.......[3]
+#28: /u/morphogenic96.........[3]
+#29: /u/Tanzka................[3]
+#30: /u/SSparks31.............[3]
